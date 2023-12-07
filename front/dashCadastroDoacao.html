@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styledash.css">
+    <title>Brechó do Bem</title>
+</head>
+<body class="body">
+    <header class="header">
+        <div class="titulo_header">
+            <h1>Brechó do Bem</h1>
+        </div>
+        <div>
+            <img class="logo_header" src="images/logo_brecho.jpg">
+        </div>
+        <div>
+            <img class="foto_usuario" src="images/foto_usuario.png">
+        </div>
+    </header>
+    <main>
+        <div class="coluna_lateral"></div>
+        <div class="menu_lateral">
+            <h3><a href="dashDoacoesAnteriores.html">Minhas Doações</a></h3>
+            <h3><a href="dashCadastroDoacao.html">Cadastrar Nova Doação</a></h3>
+            <h3><a href="dashEnderecosPerto.html">Instituições Perto de Mim</a></h3>
+        </div>
+        <div class="titulo">
+            <h1>Nova Doação:</h1>
+        </div>
+        <div class="form_doacao" id="cor_letra">
+            <div> 
+                <h2>Quantidade de Peças</h2>
+                <label for="number"></label>
+                <input type="number" id="number" placeholder="Qtd de peças"/>
+            </div>
+            <h2>Caso não queira usar o endereço cadastrado <br/>
+                Preencher o novo endereço para a doação
+            </h2>
+            <div> 
+                <h2>Endereço</h2>
+                <label for="address">Rua / Av:</label>&nbsp;
+                <input type="address" id="address" placeholder="Digite a Rua / Av"/>
+                <br/>
+                <br/>
+                <label for="address">Bairro:</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="address" id="address" placeholder="Digite o Bairro"/>
+                <br/>
+                <br/>
+                <label for="address">Cidade:</label>&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="address" id="address" placeholder="Digite a Cidade"/>
+                <br/>
+                <br/>
+                <label for="address">Estado:</label>&nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="address" id="address" placeholder="Digite o Estado"/>
+                <br/>
+                <button id="btn_cadastrar" onclick="window.location.href='dashTelaAgradecimento.html'">Entrar</button>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+</body>
+</html>

@@ -1,0 +1,36 @@
+.background {
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cor_letra {
+    color: #00A593;
+    text-decoration: none;
+}
+
+.container {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+}
+
+#btn_entrar{
+    margin-top: 10%;
+    margin-left: 30%;
+    color: #ffffff;
+    background-color: #00A593;
+    border: #00A593;
+    font-size: 18px;
+    padding: 5px 30px;
+}
+
+#container_selecao {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 75%;
+    transform: translate(-50%, -50%);
+}
