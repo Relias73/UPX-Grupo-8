@@ -54,10 +54,6 @@ O projeto foi desenvolvido utilizando HTML para estruturação, CSS para estiliz
 
 Para executar o projeto localmente, é necessário ter um navegador web compatível com HTML5 e acesso à internet para carregar recursos externos.
 
-## Como Contribuir
-
-Se deseja contribuir para o projeto, sinta-se à vontade para enviar sugestões, correções de bugs ou implementar novas funcionalidades. Basta abrir uma *issue* ou enviar um *pull request*.
-
 Esperamos que o **Brechó do Bem** facilite e incentive a prática de doações, promovendo o bem-estar social.
 
 **Grupo 8 -  Brechó do Bem**
