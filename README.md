@@ -1,9 +1,9 @@
 # Brechó do Bem - Sistema de Doações
 
-##Grupo 8
-##Aruã Puertas Costa RA 132588
-##Silvio de Campos Junior RA 132277
-##Roberto Elias de Souza RA 223627
+## Grupo 8
+## Aruã Puertas Costa RA 132588
+## Silvio de Campos Junior RA 132277
+## Roberto Elias de Souza RA 223627
 
 ## Introdução
 
