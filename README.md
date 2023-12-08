@@ -1,6 +1,6 @@
 # Brechó do Bem - Sistema de Doações
 
-## Grupo 8
+## Grupo 8 de UPX 4
 ### Aruã Puertas Costa RA 132588
 ### Silvio de Campos Junior RA 132277
 ### Roberto Elias de Souza RA 223627
@@ -56,4 +56,4 @@ Para executar o projeto localmente, é necessário ter um navegador web compatí
 
 Esperamos que o **Brechó do Bem** facilite e incentive a prática de doações, promovendo o bem-estar social.
 
-**Grupo 8 -  Brechó do Bem**
+**Grupo 8_UPX 4 -  Brechó do Bem**
